@@ -1,6 +1,6 @@
 # Segunda tarea de APA 2023: Manejo de números primos
 
-## Guillem Pérez Sánchez
+## Nom i Cognoms: Guillem Pérez Sánchez
 
 ## Fichero `primos.py`
 
